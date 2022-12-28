@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705593154334",
+    "project_id": "terscevap-8aefd",
+    "storage_bucket": "terscevap-8aefd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705593154334:android:d7a1c4544695f7a899c70f",
+        "android_client_info": {
+          "package_name": "cevap.reverse.quizapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705593154334-em9kpkc6islbqgsa7fj45sacto7f9sdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9ES-H5MX6LkPOGUZaPydWf9wIK-x4S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705593154334-em9kpkc6islbqgsa7fj45sacto7f9sdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
